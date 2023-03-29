@@ -1,4 +1,4 @@
 myRepo:
-  gitProvider: myGithub
-  artifactory: myArtifactory
-  path: jfrog/jfrog-pipelines-npm-sample
+  gitProvider: my_github
+  artifactory: art
+  path: iwashitah/jfrog-pipelines-npm-sample
